@@ -1,4 +1,5 @@
 require 'csv'
+require 'set'
 
 # Function to calculate the second lowest cost silver plan for a given rate area
 def calculate_second_lowest_cost_silver_plan(plans)
